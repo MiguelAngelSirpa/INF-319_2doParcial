@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  9 08:39:30 2022
 
-@author: Cliente
-"""
 def TriboNormal(n):
     a = -1
     b = 1
@@ -40,11 +35,8 @@ def ImprimeTribo(n) :
          
  
     
- 
-    
- 
-# Driver code
+
 n = 10
 ImprimeTribo(n)
-print()
+print("\n")
 ImprimeTriboNormal(n)
